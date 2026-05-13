@@ -96,6 +96,8 @@ The framework generates:
 * Selected frame indices
 * 3D video cube visualization
 
+<img width="509" height="421" alt="WhatsApp Image 2025-10-17 at 15 34 48_756d66ca" src="https://github.com/user-attachments/assets/b717959f-636d-4a72-bcab-3d1b902d85d7" />
+
 ---
 
 ## Repository Contents
