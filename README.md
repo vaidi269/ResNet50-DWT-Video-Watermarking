@@ -132,7 +132,7 @@ If you use this code, dataset, or methodology in your research, please cite the 
 
 A permanent archived version of this repository with DOI is available through Zenodo.
 
-(Insert Zenodo DOI here after publication)
+(10.5281/zenodo.20155373)
 
 ---
 
