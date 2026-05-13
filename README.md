@@ -97,6 +97,14 @@ The framework generates:
 * 3D video cube visualization
 
 <img width="509" height="421" alt="WhatsApp Image 2025-10-17 at 15 34 48_756d66ca" src="https://github.com/user-attachments/assets/b717959f-636d-4a72-bcab-3d1b902d85d7" />
+ <img width="479" height="465" alt="WhatsApp Image 2025-10-17 at 18 09 40_43576549" src="https://github.com/user-attachments/assets/2065371e-9f9e-477f-95b7-cf5927d8f233" />
+
+ Extracted Watermark
+ <img width="128" height="128" alt="extracted_wm_0026" src="https://github.com/user-attachments/assets/a95a3865-51e1-4633-aedc-f901c7be3d36" />
+
+<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/c90ed9a7-c6a7-49b6-af96-06cfad9e89a8" />
+
+
 
 ---
 
